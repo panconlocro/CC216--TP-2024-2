@@ -1,8 +1,10 @@
 Trabajo parciar de Fundamentos de Data Science
 # Miembors del grupo
-Rosa Maria Rodriguez Valencia (U202212675)
-Braulio Alonso Bartra Sandoval (U202214069)
-David Andre Serrudo Caiña (U20221D051)
+
+Rosa Maria Rodriguez Valencia         (U202212675)                                            
+Braulio Alonso Bartra Sandoval        (U202214069)                                                
+David Andre Serrudo Caiña             (U20221D051)
+
 
 ### Objetivo del trabajo
 
